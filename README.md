@@ -1,2 +1,5 @@
 # vue-virtual-list
-基于 Vue 的大列表优化组件
+
+## Project setup
+
+Vue 虚拟列表组件
